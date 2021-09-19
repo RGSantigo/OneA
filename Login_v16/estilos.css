@@ -1,0 +1,13 @@
+.login{
+    font-family: 'Montserrat';
+    color: #fff;
+    font-size: 23px;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    background: linear-gradient(160deg, #22c2c3 0%, #f5c661 100%);
+}
+
+.login100-form-title{
+    font-family: 'Rajdhani';
+}

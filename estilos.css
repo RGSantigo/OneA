@@ -1,3 +1,7 @@
+/* html{
+    font-size: 62.5%;
+} */
+
 body{
     background-color: #eeeeee;
     position: relative;
@@ -45,7 +49,7 @@ body{
 }
 
 .navbar a:hover{
-    background: linear-gradient(160deg, #22c2c3 0%, #f6ebd3 100%);
+    background: linear-gradient(160deg, #22c2c3 0%, #f5c661 100%);
     border-radius: 5%;
 }
 
@@ -70,11 +74,11 @@ body{
     padding: 5px 10px;
     text-decoration: none;
     border-radius: 5px;
-    background: linear-gradient(160deg, #22c2c3 0%, #f6ebd3 100%);
+    background: linear-gradient(160deg, #22c2c3 0%, #f5c661 100%);
 }
 
 .Text-hero a:hover{
-    background: linear-gradient(160deg, #22c2c3 0%, #f6ebd3 100%);
+    background: linear-gradient(160deg, #22c2c3 0%, #f5c661 100%);
 } 
 
 .sgv-hero{
@@ -192,21 +196,21 @@ body{
     font-size: 20px;
     padding: 4px 15px;
     text-align: center;
-    background: linear-gradient(160deg, #22c2c3 0%, #f6ebd3 100%);
+    background: linear-gradient(160deg, #22c2c3 0%, #f5c661 100%);
     text-decoration: none;
 }
 
 .Contacto a:hover{
-    background: linear-gradient(160deg, #22c2c3 0%, #f6ebd3 100%);
+    background: linear-gradient(160deg, #22c2c3 0%, #f5c661 100%);
 }
 
 /* FIN FORMULARIO */
 
 .Foot{
-    background: linear-gradient(160deg, #22c2c3 0%, #f6ebd3 100%);
+    background: linear-gradient(160deg, #22c2c3 0%, #f5c661 100%);
 }
 
-.Foot h4{
+footer h4{
     font-family: 'MuseoModerno';
     padding: 10px;
     font-size: 25px;
@@ -214,3 +218,4 @@ body{
     margin: 0;
     overflow: hidden;
 }
+
